@@ -73,7 +73,7 @@
     "jsrsasign": "^8.0.20",
     "key-did-provider-ed25519": "^1.0.0",
     "latest": "^0.2.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.33",
     "multicodec": "^1.0.4",
     "multiformats": "^3.0.3",
