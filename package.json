@@ -74,7 +74,7 @@
     "key-did-provider-ed25519": "^1.0.0",
     "latest": "^0.2.0",
     "moment": "^2.26.0",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "multicodec": "^1.0.4",
     "multiformats": "^3.0.3",
     "nft.storage": "^3.3.0",
